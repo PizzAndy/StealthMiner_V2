@@ -13,8 +13,11 @@ To request pricing and availability, email andy@proof-of-print.com.
 Please include:
 
 -Your ZIP code
+
 -Desired quantity
+
 -Preferred color(s)
+
 -Configuration Preferences
 _____________________________________________________________________________
 
