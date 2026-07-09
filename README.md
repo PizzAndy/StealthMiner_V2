@@ -12,29 +12,27 @@ To request pricing and availability, email andy@proof-of-print.com.
 
 Please include:
 
--Your ZIP code.
-
--Desired quantity.
-
--Preferred color(s).
-
--Configuration Preferences.
+	-Your ZIP code
+	-Desired quantity
+	-Preferred color(s)
+	-Configuration Preferences
 _____________________________________________________________________________
 
 The current version has been remodeled entirely using the original files as a source. The middle section is ~95% geometrically identical internally to the source material. That said, I can only vouch for compatibility with the hashboards I have on hand. Contact me if you would like to send a hashboard, controlboard, or powersupply for fitting.
 
+Confirmed fit
+
 Hashboards:
 
-Confirmed fit
-  S19 95T (Generic)
+	S19 95T (Generic)
 
 Controlboards: 
 
-XILINX C52 
+	XILINX C52 
 
 PSU:  
 
-APW3++
+	APW3++
 
 _____________________________________
 
