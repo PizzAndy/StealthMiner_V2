@@ -3,7 +3,8 @@
 ░░▀▀█░░█░░█▀▀░█▀█░█░░░░█░░█▀█░█░█░░█░░█░█░█▀▀░█▀▄
 ░░▀▀▀░░▀░░▀▀▀░▀░▀░▀▀▀░░▀░░▀░▀░▀░▀░▀▀▀░▀░▀░▀▀▀░▀░▀
 
-The StealthMiner S19/S21 retrofit enclosure project
+The StealthMiner S19/S21 retrofit enclosure project.
+
 This is a Version 2 refresh of SatStackingPleb's StealthMiner. It is a single hashboard miner in a rectangular enclosure intended to blend into household environments with low noise. This version expands upon that concept with updated cosmetics and improvements to its manufacturability and assembly.
 
 Proof of Print offers made-to-order enclosures based on this design for customers located in the United States.
