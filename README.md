@@ -23,14 +23,14 @@ _____________________________________________________________________________
 
 The current version has been remodeled entirely using the original files as a source. The middle section is ~95% geometrically identical internally to the source material. That said, I can only vouch for compatibility with the hashboards I have on hand. Contact me if you would like to send a hashboard, controlboard, or powersupply for fitting.
 
-Hashboards:
-Confirmed fit
+Hashboards: .
+Confirmed fit .
   S19 95T (Generic)
 
-Controlboards:
-XILINX C52
+Controlboards: .
+XILINX C52 .
 
-PSU:
+PSU:  .
 APW3++
 
 _____________________________________
